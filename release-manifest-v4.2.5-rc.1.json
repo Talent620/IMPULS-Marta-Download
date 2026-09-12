@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "releaseStatus": "PRERELEASE_RC",
+  "version": "4.2.5-rc.1",
+  "sourceRepository": "Talent620/IMPULS_MARTA",
+  "sourceCommit": "71062a3074348c75c1500c278176d0d17ccd6a56",
+  "sourceTag": "source-v4.2.5-rc.1-final",
+  "publicRepository": "Talent620/IMPULS-Marta-Download",
+  "publicTag": "v4.2.5-rc.1",
+  "installer": {
+    "name": "IMPULS-Dotacje-Marta-4.2.5-rc.1-Setup.exe",
+    "bytes": 476335387,
+    "sha256": "3de1c62198fa7b7a928def4bcbd643f771dc656984afa4bbf83411c90e263a01",
+    "browserDownloadUrl": "https://github.com/Talent620/IMPULS-Marta-Download/releases/download/v4.2.5-rc.1/IMPULS-Dotacje-Marta-4.2.5-rc.1-Setup.exe",
+    "trustedPublisherSignature": "NOT_CONFIRMED"
+  },
+  "tests": {
+    "offline": "PASS",
+    "liveAi": "BLOCKED_NO_OWNER_KEY_CONSENT_OR_BUDGET",
+    "windowsInstallAndUpdate": "PASS",
+    "ownerAcceptance": "NOT_RUN"
+  },
+  "windowsEvidence": {
+    "runId": 34696573567,
+    "runUrl": "https://github.com/Talent620/IMPULS_MARTA/actions/runs/34696573567",
+    "completedAt": "2026-09-12T13:34:01Z"
+  },
+  "downloadVerification": {
+    "status": "PENDING_PUBLICATION",
+    "verifiedAt": null,
+    "authentication": "NONE"
+  }
+}
