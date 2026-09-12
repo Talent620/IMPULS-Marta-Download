@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "releaseStatus": "PRERELEASE_RC",
+  "version": "4.2.6-rc.1",
+  "sourceRepository": "Talent620/IMPULS_MARTA",
+  "sourceCommit": "7092b2b747aa4bc5c5b2a7fb36bd717f7075025b",
+  "sourceTag": "source-v4.2.6-rc.1",
+  "publicRepository": "Talent620/IMPULS-Marta-Download",
+  "publicTag": "v4.2.6-rc.1",
+  "publicReleaseUrl": "https://github.com/Talent620/IMPULS-Marta-Download/releases/tag/v4.2.6-rc.1",
+  "installer": {
+    "name": "IMPULS-Dotacje-Marta-4.2.6-rc.1-Setup.exe",
+    "bytes": 504231920,
+    "sha256": "e8b7da395e394f6ebc8d9379c5f374d63919ec1c22ae878300a0731006b1331e",
+    "browserDownloadUrl": "https://github.com/Talent620/IMPULS-Marta-Download/releases/download/v4.2.6-rc.1/IMPULS-Dotacje-Marta-4.2.6-rc.1-Setup.exe",
+    "trustedPublisherSignature": "NOT_CONFIRMED"
+  },
+  "tests": {
+    "offline": "PASS",
+    "liveAi": "BLOCKED_NO_OWNER_KEY_CONSENT_OR_BUDGET",
+    "windowsInstallAndUpdate": "PASS",
+    "ownerAcceptance": "NOT_RUN"
+  },
+  "windowsEvidence": {
+    "runId": 34710703435,
+    "runUrl": "https://github.com/Talent620/IMPULS_MARTA/actions/runs/34710703435",
+    "sourceCommit": "7092b2b747aa4bc5c5b2a7fb36bd717f7075025b"
+  },
+  "downloadVerification": {
+    "status": "VERIFIED_FULL_DOWNLOAD",
+    "verifiedAt": "2026-09-12",
+    "authentication": "NONE",
+    "cookies": "NONE",
+    "downloadedBytes": 504231920,
+    "downloadedSha256": "e8b7da395e394f6ebc8d9379c5f374d63919ec1c22ae878300a0731006b1331e",
+    "detectedType": "PE32 Windows GUI, NSIS installer"
+  }
+}
