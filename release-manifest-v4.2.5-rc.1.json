@@ -7,6 +7,7 @@
   "sourceTag": "source-v4.2.5-rc.1-final",
   "publicRepository": "Talent620/IMPULS-Marta-Download",
   "publicTag": "v4.2.5-rc.1",
+  "publicReleaseId": 387582971,
   "installer": {
     "name": "IMPULS-Dotacje-Marta-4.2.5-rc.1-Setup.exe",
     "bytes": 476335387,
@@ -26,8 +27,12 @@
     "completedAt": "2026-09-12T13:34:01Z"
   },
   "downloadVerification": {
-    "status": "PENDING_PUBLICATION",
-    "verifiedAt": null,
-    "authentication": "NONE"
+    "status": "VERIFIED_FULL_DOWNLOAD",
+    "verifiedAt": "2026-09-12T13:57:00Z",
+    "authentication": "NONE",
+    "cookies": "NONE",
+    "downloadedBytes": 476335387,
+    "downloadedSha256": "3de1c62198fa7b7a928def4bcbd643f771dc656984afa4bbf83411c90e263a01",
+    "detectedType": "PE32 Windows GUI, NSIS installer"
   }
 }
