@@ -1,14 +1,14 @@
-IMPULS DOTACJE MARTA 4.2.5 RC1 — PIERWSZE URUCHOMIENIE
+IMPULS DOTACJE MARTA 4.2.6 RC1 — PIERWSZE URUCHOMIENIE
 
-To jest wydanie testowe RC.
+To jest wydanie testowe RC, nie stabilne latest.
 
 1. Pobierz wyłącznie plik:
-   IMPULS-Dotacje-Marta-4.2.5-rc.1-Setup.exe
+   IMPULS-Dotacje-Marta-4.2.6-rc.1-Setup.exe
 
 2. Zamknij wcześniejszą wersję programu i uruchom instalator.
-   Aktualizacja używa tej samej nazwy programu i tego samego katalogu danych.
+   Aktualizacja zachowuje tę samą nazwę programu i katalog danych.
 
-3. Instalator nie ma potwierdzonego podpisu zaufanego wydawcy.
+3. Podpis zaufanego wydawcy nie jest potwierdzony.
    Nie wyłączaj antywirusa ani ochrony Windows. Jeżeli zasady komputera
    blokują uruchomienie, zatrzymaj instalację i pokaż komunikat właścicielowi.
 
@@ -19,9 +19,9 @@ To jest wydanie testowe RC.
 5. Po komunikacie „AI działa. Możesz rozpocząć rozmowę” kliknij
    „Przejdź do Marta AI”.
 
-ChatGPT Plus/Pro i API są rozliczane oddzielnie. Wpisanie limitu w Marcie
+ChatGPT Plus/Pro i API są rozliczane oddzielnie. Limit wpisany w Marcie
 nie kupuje środków OpenAI. Klucza nie wysyłaj programiście ani w rozmowie.
 
-Kopia JSON w ustawieniach jest kopią bazy, a nie wszystkich załączników
-i rozmów. Do przenoszenia całej pracy zachowaj również folder danych przy
-zamkniętej aplikacji; na nowym komputerze skonfiguruj klucz ponownie.
+„Utwórz pełną kopię” zapisuje zaszyfrowane archiwum bazy, dokumentów,
+rozmów, wersji wyników i zadań. Klucz AI nie jest w niej przenoszony;
+na nowym komputerze skonfiguruj go ponownie. Zapamiętaj hasło kopii.
